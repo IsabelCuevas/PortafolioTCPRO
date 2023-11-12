@@ -201,13 +201,13 @@ h1 {
 }
 
 
-/* Testimonios */
+/* Galeria*/
 
-.testimonios {
+.galeria {
   padding: 40px 40px 80px 40px;
 }
 
-.testimonios .carousel {
+.galeria .carousel {
   max-width: 800px;
 }
 
@@ -224,33 +224,33 @@ h1 {
   justify-content: center;
 }
 
-.testimonio-imagen {
+.galeria-imagen {
   height: 150px;
   width: 150px;
   margin: 10px 10px 20px 10px;
 }
 
-.testimonio-texto {
+.galeria-texto {
   max-width: 70%;
   font-size: 20px;
   text-align: center;
   font-family: 'Share Tech Mono', monospace;
 }
 
-.testimonio-info {
+.galeria-info {
   font-weight: bold;
   text-align: center;
 }
 
-.testimonio-info p {
+.galeria-info p {
   margin-bottom: 0;
 }
 
-.testimonio-footer .cliente {
+.galeria-footer .cliente {
   font-size: 1.2rem;
 }
 
-.testimonio-info .cargo {
+.galeria-info .cargo {
   font-size: 0.9rem;
   color: #656060;
 }
